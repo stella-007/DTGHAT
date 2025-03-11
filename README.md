@@ -13,7 +13,7 @@ Overall architecture of DTGHAT. A. Data sources and some symbols in this study. 
 - [License](#license)
 
 # Data description
-
+If you would like to run our program, the dataset can be downloaded via this link:链接: https://pan.baidu.com/s/1b17T4NmUDUdZPA6tjN0Pbw?pwd=cb29 提取码: cb29
 | File name  | Description |
 | ------------- | ------------- |
 | drugs_node.csv    | drugs name file  |
